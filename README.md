@@ -1,2 +1,8 @@
-# legit
-anyone want to help me create my first "legit" and operational website?
+<!DOCTYPE>  
+<HTML>
+<head><title>hello fellow Brethren</title></head>
+<h1>WELCOME</h1>
+<body>
+<p>let's do this!</p>
+</body>
+</HTML>
